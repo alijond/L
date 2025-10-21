@@ -1,0 +1,41 @@
+body{
+    background: black;
+}
+ul{
+    justify-content: space-around;
+    display: flex;
+    gap: 20px;
+    
+}
+
+.a2{
+     justify-content: space-around;
+    display: flex;
+    gap: 20px;
+}
+.a1{
+    border: 2px solid black;
+    width: 40%;
+    margin-left: 300px;
+     display: flex;
+    gap: 20px;
+}
+p{
+   
+    color: #ffffff;
+}
+.s3{
+    border: 2px solid black;
+    width: 80%;
+     display: flex;
+    gap: 50px;
+    margin-left: 100px;
+}
+.s4{
+    border: 2px solid black;
+    width: 80%;
+     display: flex;
+    gap: 50px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
